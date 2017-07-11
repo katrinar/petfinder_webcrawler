@@ -12,8 +12,8 @@ Node.js script that extracts dog breed information from petfinder.com.
 Run locally:
 
 ```
-https://github.com/katrinar/dogbreedlist.git
-cd dogbreedlist
+git clone https://github.com/katrinar/petfinder_webcrawler.git
+cd petfinder_webcrawler
 npm install
 ```
 
